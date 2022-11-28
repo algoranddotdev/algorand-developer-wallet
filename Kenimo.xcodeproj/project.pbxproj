@@ -114,7 +114,6 @@
 		D7B48F892900953F0003FC91 /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
 		D7B48F9229009F3E0003FC91 /* AlgorandNetwork+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AlgorandNetwork+CoreDataClass.swift"; sourceTree = "<group>"; };
 		D7B48F9329009F3E0003FC91 /* AlgorandNetwork+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AlgorandNetwork+CoreDataProperties.swift"; sourceTree = "<group>"; };
-		D7EE2C752934302900266D94 /* readMe.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readMe.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,7 +170,6 @@
 				D732D69F28CA38A8000F26CB /* Utilities */,
 				D732D67528CA327A000F26CB /* KenimoApp.swift */,
 				D732D67928CA327A000F26CB /* Assets.xcassets */,
-				D7EE2C752934302900266D94 /* readMe.md */,
 			);
 			path = Kenimo;
 			sourceTree = "<group>";
